@@ -6,9 +6,9 @@ color:
   saturation: 0.2706418540328741
   rhythmicContrast: 0.5088363292161375
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
 name: elegant heartbreak
